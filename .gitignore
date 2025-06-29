@@ -1,0 +1,13 @@
+# Node.js
+Ecom-Project/frontend/node_modules/
+Ecom-Project/frontend/.env
+
+# Java/Spring Boot
+Ecom-Project/backend/target/
+*.log
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
